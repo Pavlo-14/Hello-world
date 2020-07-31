@@ -1,6 +1,6 @@
 # Hello-world
  little attempt
  
- So I wanna to try 
+ So I wanna to
  
  accomplish
